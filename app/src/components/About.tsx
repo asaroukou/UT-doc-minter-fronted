@@ -22,7 +22,7 @@ export default function About() {
                 <p>Chaque `preuve` est un NFT (Non, Fungible Token) émis sur la blockchain Ethereum sous la forme d'un ERC721.
                     Le document est quand à lui sauvegrader sur IPFS.
                 </p>
-                <p>Pour plus de contexte sur ce projet, <a target="_blank" href="https://ipfs.io/ipfs/bafybeig5b3zi3lmxyh7a6ik5cfmxhc5uca22j23rpl7wiybf4cvybwfpvy">consulter le rapport complet sauvegarder sur IPFS ici</a>.</p>
+                <p>Pour plus de contexte sur ce projet, <a target="_blank" href="https://ipfs.io/ipfs/bafybeig5b3zi3lmxyh7a6ik5cfmxhc5uca22j23rpl7wiybf4cvybwfpvy">consulter le rapport complet sur IPFS ici</a>.</p>
 
 
                 <h3>About this project</h3>
